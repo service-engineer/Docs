@@ -4,7 +4,7 @@
 
 ## Code of Business Conduct
 
-* [Untitled](code-of-business-conduct/untitled.md)
+* [Professional Ethics](code-of-business-conduct/untitled.md)
 
 ## General Terms and Conditions <a id="terms-and-conditions"></a>
 
