@@ -14,3 +14,8 @@
 * [Pricing](terms-and-conditions/pricing.md)
 * [Termination](terms-and-conditions/termination.md)
 
+## Subcontact Agreement Terms <a id="subcontact-terms"></a>
+
+* [Description](subcontact-terms/description.md)
+* [2. Obligations of Parties](subcontact-terms/2.-obligations-of-parties.md)
+
