@@ -4,7 +4,11 @@
 
 ## Code of Business Conduct
 
-* [Professional Ethics](code-of-business-conduct/untitled.md)
+* [Counterparty Relations](code-of-business-conduct/untitled.md)
+* [Professional Reliability](code-of-business-conduct/professional-reliability.md)
+* [Professional Integrity](code-of-business-conduct/professional-integrity.md)
+* [Professional Accountability](code-of-business-conduct/professional-accountability.md)
+* [Professional Communication](code-of-business-conduct/professional-communication.md)
 
 ## Service Agreement <a id="service-agreement-terms-and-conditions"></a>
 
@@ -15,4 +19,8 @@
 * [5. Intellectual Property and Confidentiality](service-agreement-terms-and-conditions/5.-intellectual-property-and-confidentiality.md)
 * [6. Relationship and Competition](service-agreement-terms-and-conditions/6.-relationship-and-competition.md)
 * [7. Termination](service-agreement-terms-and-conditions/termination.md)
+
+## Brochures
+
+* [Pumps](brochures/pumps.md)
 

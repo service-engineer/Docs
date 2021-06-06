@@ -4,5 +4,7 @@ description: The most recent revisions of Service Engineer OÜ company's documen
 
 # Documentation Index
 
-Please familiarize yourself with recent revisions of  Terms & Conditions, Code of Conduct and other documents.
+Please familiarize yourself with recent revisions of out Documents:
+
+
 
