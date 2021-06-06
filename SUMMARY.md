@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Documents Portal Title Page](README.md)
+* [Documents Portal Start Page](README.md)
 
 ## Code of Business Conduct
 
