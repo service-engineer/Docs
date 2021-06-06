@@ -1,4 +1,8 @@
-# 1. General Provisions
+---
+description: SECTION 1
+---
+
+# General Provisions
 
 **GOVERNING LAW**. This Agreement shall be governed by the laws Republic of Estonia. 
 
@@ -16,7 +20,7 @@
 
 **COUNTERPARTS**. This Agreement may be executed in counterparts, all of which shall constitute a single agreement. 
 
-**FORCE MAJEURE**. Service Provider is not liable for any failure to perform due to causes beyond its reasonable control including, but not limited to, acts of God, acts of civil authorities, acts of military authorities, riots, embargoes, acts of nature and natural disasters, and other acts which may be due to unforeseen circumstances. 
+**FORCE MAJEURE**. Service Engineer OÜ is not liable for any failure to perform due to causes beyond its reasonable control including, but not limited to, acts of God, acts of civil authorities, acts of military authorities, riots, embargoes, acts of nature and natural disasters, and other acts which may be due to unforeseen circumstances. 
 
 **ELECTRONIC COMMUNICATIONS PERMITTED**. Any notice to be given under this Agreement shall be in writing and shall be sent by email, to the address of the relevant Party set out in this Agreement and Annexes or other email address as that Party may from time to time notify to the other Party in accordance with this clause. Notices sent as above shall be deemed to have been received next working day after sending. 
 
