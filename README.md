@@ -1,5 +1,5 @@
 ---
-description: The most recent revisions of Service Engineer OÜ company's documents
+description: The most recent revisions of Service Engineer company's documents
 ---
 
 # Documentation Index
